@@ -18,7 +18,7 @@ Your challenge is to create a web app that supports the following:
 - Please use Python for the backend and React with JSX for the frontend - all other decisions are up to you!
 - When you're finished, please share a github or other source control repository containing your work, along with instructions on how to run your code on a local machine.
 
-## BONUS ROUND
+## BONUS HARDER VERSION
 
 Instead of converting Private Keys into a sequence of Emojis, convert them into human-readable sentences using a modified Markov Chain text generator.
 Word suggestions might be used to help users re-enter their sentences correctly.
