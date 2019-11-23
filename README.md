@@ -1,7 +1,7 @@
 # Sempo Fullstack Coding Challenge
 
 ## Introduction
-Transactions on the Ethereum Blockchain are made by signing a message using a private key, which is 32-byte secret like that looks something like '0x7dcbb63dd31af85ea96d5e87541663bd3e8e8e4b2574964bfc8365f6b39e764a'. 
+Transactions on the Ethereum Blockchain are made by signing a message using a private key, which is 32-byte secret like that looks something like `0x7dcbb63dd31af85ea96d5e87541663bd3e8e8e4b2574964bfc8365f6b39e764a`. 
 
 Unfortunately Private Keys are very difficult for humans to remember, especially for people with low levels of literacy.
 
