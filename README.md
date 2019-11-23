@@ -16,6 +16,6 @@ Your challenge is to create a web app that supports the following:
 ## Other Requirements
 - Private keys should be stored on the server in a secure manner
 - Please use Python for the backend and React with JSX for the frontend - all other decisions are up to you!
-- When you're finished, please share a github or other source control repository containing your work, along with instructions on how to launch the app
+- When you're finished, please share a github or other source control repository containing your work, along with instructions on how to run your code on a local machine.
 
 
