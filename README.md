@@ -10,7 +10,7 @@ Various methods have been suggested for making Private Keys into something more 
 ## The task 
 Your challenge is to create a web app that supports the following:
 - When a user submits their name, a 32 byte private key should be generated on a backend server
-- In return, the user receives their private key in the form of a sequence of emojis. The sequence should use **no more than 29 unique emojis, and be as short as possible.**
+- In return, the user receives their private key in the form of a sequence of emojis. The sequence should use **no more than 29 unique emojis (that is, the sequence is base 29), and be as short as possible.**
 - When the user enters the correct sequence of emojis and submits them, the server should return the correct name
 
 ## Other Requirements
